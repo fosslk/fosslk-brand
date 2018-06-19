@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="786.59883"
-     inkscape:cy="98.000761"
+     inkscape:cx="672.31312"
+     inkscape:cy="583.71504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1151"
-     inkscape:window-x="59"
+     inkscape:window-x="493"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,12 +68,12 @@
        id="text1505" />
     <path
        style="fill:#333333;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="M 107.37102,21.636815 H 194.9364 V 66.867551 H 107.37102 Z"
+       d="m 110.54601,22.165982 h 87.56538 v 45.230736 h -87.56538 z"
        id="rect2394"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffd42a;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="M 14.277088,77.929509 H 101.84247 V 123.16025 H 14.277088 Z"
+       d="m 17.452087,74.75451 h 87.565373 v 45.23075 H 17.452087 Z"
        id="rect2396"
        inkscape:connector-curvature="0" />
     <g
@@ -84,7 +84,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.51509285px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08787732"
        id="text2408" />
     <g
-       transform="matrix(0.89541096,0,0,0.89541096,2.120058,-21.364521)"
+       transform="matrix(0.89541096,0,0,0.89541096,5.2950579,-20.835354)"
        id="g2478">
       <g
          aria-label="o"
@@ -635,7 +635,7 @@
     </g>
     <g
        style="fill:#333333"
-       transform="matrix(0.89541096,0,0,0.89541096,4.273908,56.812796)"
+       transform="matrix(0.89541096,0,0,0.89541096,7.4489075,53.637797)"
        id="g2514">
       <g
          aria-label="o"
@@ -913,12 +913,12 @@
     </g>
     <path
        style="fill:#ffd42a;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="M 107.37102,77.450879 H 194.9364 V 122.68162 H 107.37102 Z"
+       d="m 110.54601,74.27588 h 87.56538 v 45.23075 h -87.56538 z"
        id="rect2516"
        inkscape:connector-curvature="0" />
     <g
        id="g2552"
-       transform="matrix(0.89541096,0,0,0.89541096,97.367868,57.281807)"
+       transform="matrix(0.89541096,0,0,0.89541096,100.54285,54.106808)"
        style="fill:#c83737">
       <g
          aria-label="o"
@@ -1196,12 +1196,12 @@
     </g>
     <path
        style="fill:#c83737;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 13.798448,128.9648 h 87.565382 v 45.23074 H 13.798448 Z"
+       d="m 16.973447,125.78981 h 87.565373 v 45.23074 H 16.973447 Z"
        id="rect2554"
        inkscape:connector-curvature="0" />
     <g
        id="g2590"
-       transform="matrix(0.89541096,0,0,0.89541096,3.795278,107.84808)"
+       transform="matrix(0.89541096,0,0,0.89541096,6.9702779,104.67309)"
        style="fill:#ffffff">
       <g
          aria-label="o"
@@ -1479,12 +1479,12 @@
     </g>
     <path
        style="fill:#c83737;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 109.28554,128.9648 h 87.56539 v 45.23074 h -87.56539 z"
+       d="m 112.46053,125.78981 h 87.56539 v 45.23074 h -87.56539 z"
        id="rect2592"
        inkscape:connector-curvature="0" />
     <g
        style="fill:#ffcc00"
-       transform="matrix(0.89541096,0,0,0.89541096,99.282398,107.84808)"
+       transform="matrix(0.89541096,0,0,0.89541096,102.45738,104.67309)"
        id="g2628">
       <g
          aria-label="o"
@@ -1762,7 +1762,7 @@
     </g>
     <path
        style="fill:#6600ff;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="M 14.277088,77.929509 H 101.84247 V 123.16025 H 14.277088 Z"
+       d="m 17.452087,74.75451 h 87.565373 v 45.23075 H 17.452087 Z"
        id="rect2630"
        inkscape:connector-curvature="0" />
     <g
@@ -1774,7 +1774,7 @@
        id="text2642" />
     <g
        id="g2678"
-       transform="matrix(0.89541096,0,0,0.89541096,4.273908,56.812796)"
+       transform="matrix(0.89541096,0,0,0.89541096,7.4489075,53.637797)"
        style="fill:#f2f2f2">
       <g
          aria-label="o"
@@ -2052,12 +2052,12 @@
     </g>
     <path
        style="fill:#6600ff;fill-opacity:1;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="M 107.37102,77.450879 H 194.9364 V 122.68162 H 107.37102 Z"
+       d="m 110.54601,74.27588 h 87.56538 v 45.23075 h -87.56538 z"
        id="rect2680"
        inkscape:connector-curvature="0" />
     <g
        style="fill:#ff6600;fill-opacity:1"
-       transform="matrix(0.89541096,0,0,0.89541096,97.367868,57.281807)"
+       transform="matrix(0.89541096,0,0,0.89541096,100.54285,54.106808)"
        id="g2716">
       <g
          aria-label="o"
@@ -2335,12 +2335,12 @@
     </g>
     <path
        style="fill:#ff6600;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 13.798448,128.9648 h 87.565382 v 45.23074 H 13.798448 Z"
+       d="m 16.973447,125.78981 h 87.565373 v 45.23074 H 16.973447 Z"
        id="rect2718"
        inkscape:connector-curvature="0" />
     <g
        style="fill:#ffffff"
-       transform="matrix(0.89541096,0,0,0.89541096,3.795278,107.84808)"
+       transform="matrix(0.89541096,0,0,0.89541096,6.9702779,104.67309)"
        id="g2754">
       <g
          aria-label="o"
@@ -2618,12 +2618,12 @@
     </g>
     <path
        style="fill:#ff6600;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 109.28554,128.9648 h 87.56539 v 45.23074 h -87.56539 z"
+       d="m 112.46053,125.78981 h 87.56539 v 45.23074 h -87.56539 z"
        id="rect2756"
        inkscape:connector-curvature="0" />
     <g
        id="g2792"
-       transform="matrix(0.89541096,0,0,0.89541096,99.282398,107.84808)"
+       transform="matrix(0.89541096,0,0,0.89541096,102.45738,104.67309)"
        style="fill:#5500d4">
       <g
          aria-label="o"
@@ -2902,7 +2902,7 @@
     <g
        style="fill:#aa0000"
        id="g2828"
-       transform="matrix(0.89541096,0,0,0.89541096,2.120058,156.96462)">
+       transform="matrix(0.89541096,0,0,0.89541096,5.2950579,148.49796)">
       <g
          aria-label="o"
          transform="matrix(0.47006828,0,0,0.47561921,-26.896612,-98.327741)"
@@ -3179,7 +3179,7 @@
     </g>
     <g
        aria-label="o"
-       transform="matrix(0.42090429,0,0,0.42587465,71.396528,70.237152)"
+       transform="matrix(0.42090429,0,0,0.42587465,74.571527,61.770486)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none"
        id="flowRoot2836">
       <path
@@ -3191,7 +3191,7 @@
     <g
        id="g2850"
        style="font-style:normal;font-weight:normal;font-size:13.54167175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4400aa;fill-opacity:1;stroke:none;stroke-width:0.33854181"
-       transform="matrix(1.2277022,0,-0.12462323,1.2277022,56.329308,3.4170429)"
+       transform="matrix(1.2277022,0,-0.12462323,1.2277022,59.504307,-5.0496237)"
        aria-label="f  ss.lk">
       <path
          inkscape:connector-curvature="0"
@@ -3227,67 +3227,103 @@
     </g>
     <path
        style="fill:#6600ff;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 17.884872,225.22274 h 88.367188 v 24.11645 H 17.884872 Z"
+       d="m 21.059871,209.8769 h 88.367179 v 24.11645 H 21.059871 Z"
        id="rect2872"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff6600;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 106.25208,225.22274 h 88.36719 v 24.11645 h -88.36719 z"
+       d="m 109.42707,209.8769 h 88.36719 v 24.11645 h -88.36719 z"
        id="rect2874"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#333333;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none"
-       d="m 17.884872,249.33919 h 88.367188 v 24.11644 H 17.884872 Z"
+       d="m 21.059871,233.99335 h 88.367179 v 24.11644 H 21.059871 Z"
        id="rect2889"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="23.487473"
-       y="244.49304"
+       x="26.66247"
+       y="229.14719"
        id="text3374"><tspan
          sodipodi:role="line"
          id="tspan3372"
-         x="23.487473"
-         y="244.49304"
+         x="26.66247"
+         y="229.14719"
          style="font-size:4.23333311px;fill:#fffff2;fill-opacity:1;stroke-width:0.26458332">#6600ff</tspan></text>
     <text
        id="text3399"
-       y="244.47696"
-       x="111.60719"
+       y="229.1311"
+       x="114.7822"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;fill:#fffff2;fill-opacity:1;stroke-width:0.26458332"
-         y="244.47696"
-         x="111.60719"
+         y="229.1311"
+         x="114.7822"
          id="tspan3397"
          sodipodi:role="line">#ff6600</tspan></text>
     <text
        id="text3446"
-       y="270.42191"
-       x="23.487473"
+       y="255.07608"
+       x="26.66247"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;fill:#fffff2;fill-opacity:1;stroke-width:0.26458332"
-         y="270.42191"
-         x="23.487473"
+         y="255.07608"
+         x="26.66247"
          id="tspan3444"
          sodipodi:role="line">#333333</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       id="path1471"
-       d="m 106.25208,249.33919 h 88.36719 v 24.11645 h -88.36719 z"
-       style="fill:#4400aa;stroke-width:0;stroke-miterlimit:3.9000001;stroke-dasharray:none;fill-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffff2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="111.60719"
-       y="269.87692"
-       id="text1475"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.695831"
+       y="274.09467"
+       id="text3469"><tspan
          sodipodi:role="line"
-         id="tspan1473"
-         x="111.60719"
-         y="269.87692"
-         style="font-size:4.23333311px;fill:#fffff2;fill-opacity:1;stroke-width:0.26458332">#4400aa</tspan></text>
+         id="tspan3467"
+         x="21.695831"
+         y="274.09467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.26458332">SpaceMono Fonts: Aa <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic'"
+   id="tspan3471">Aa</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+   id="tspan3473">Aa </tspan><tspan
+   id="tspan3477"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold Italic'">Aa</tspan></tspan></text>
+    <text
+       id="text3487"
+       y="279.38632"
+       x="21.695831"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:NotCourierSans;-inkscape-font-specification:NotCourierSans;stroke-width:0.26458332"
+         y="279.38632"
+         x="21.695831"
+         id="tspan3485"
+         sodipodi:role="line">Not Courier Sans: Aa <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:NotCourierSans;-inkscape-font-specification:'NotCourierSans Bold'"
+   id="tspan3489">Aa </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.224998"
+       y="285.20715"
+       id="text3495"><tspan
+         sodipodi:role="line"
+         id="tspan3493"
+         x="22.224998"
+         y="285.20715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Noto Sans Sinhala UI';-inkscape-font-specification:'Noto Sans Sinhala UI';stroke-width:0.26458332">Noto Sans</tspan></text>
+    <text
+       id="text1482"
+       y="12.610728"
+       x="126.62201"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:0.26458332"
+         y="12.610728"
+         x="126.62201"
+         id="tspan1480"
+         sodipodi:role="line">foss.lk brand guide JUNE 2018</tspan></text>
   </g>
 </svg>
